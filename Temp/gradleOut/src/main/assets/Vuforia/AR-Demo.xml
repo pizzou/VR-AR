@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="EditedPaint2" size="50.000000 28.088537" />
+    <ImageTarget name="rwanda-kigali-top-things-to-do-kimironko-market" size="50.000000 32.054794" />
+    <ImageTarget name="imigongo" size="100.000000 66.699219" />
+    <ImageTarget name="rwandan-souvenirs-kigali-baskets" size="100.000000 68.493149" />
+    <ImageTarget name="fast-food-restaurant-menu-sketch-template-vector" size="100.000000 80.199997" />
+    <ImageTarget name="paper_texture_picture_169367" size="100.000000 70.588234" />
+    <ImageTarget name="bugger-recipe-recipe-main-photo" size="0.150000 0.106258" />
+    <ImageTarget name="ftkiiud2-900" size="0.150000 0.150000" />
+    <ImageTarget name="maxresdefault" size="60.000000 33.750000" />
+    <ImageTarget name="Akaba" size="10.000000 15.000000" />
+    <ImageTarget name="cheeken" size="10.000000 6.690909" />
+    <ImageTarget name="akabangaa" size="10.000000 10.691244" />
+    <ImageTarget name="akabanga-" size="10.000000 10.000000" />
+    <ImageTarget name="tripad" size="10.000000 6.654545" />
+    <ImageTarget name="images" size="10.000000 6.690909" />
+    <ImageTarget name="fish" size="10.000000 13.350515" />
+    <ImageTarget name="akabanga" size="600.000000 600.000000" />
+    <ImageTarget name="android" size="900.000000 439.453125" />
+  </Tracking>
+</QCARConfig>
